@@ -27,7 +27,7 @@
                 {{--                    <a href="#" class="btn-learn-more">Learn More</a>--}}
             </div>
             <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left" data-aos-delay="100">
-                <img class="img-thumbnail" src="{{asset('assets/site/img/portfolio/portfolio-7.jpg')}}" alt="">
+                <img class="img-thumbnail" src="{{Faker\Factory::create()->imageUrl(640,380)}}" alt="">
             </div>
         </div>
 

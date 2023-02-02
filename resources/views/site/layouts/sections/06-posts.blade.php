@@ -24,7 +24,7 @@
                     </div>
                 @endforeach
             </div>
-            <div class="swiper-pagination bg-light rounded-pill mx-5"></div>
+            <div class="swiper-pagination bg-light rounded-circle"></div>
         </div>
     </div>
 </section>

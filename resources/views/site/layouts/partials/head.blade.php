@@ -4,8 +4,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>آموزشگاه موسیقی ترنم</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <meta content="آموزشگاه موسیقی ترنم - taranomusic.ir" name="description">
     <!-- Favicons -->
     <link href="{{asset('assets/site/img/favicon.png')}}" rel="icon">
     <link href="{{asset('assets/site/img/apple-touch-icon.png')}}" rel="apple-touch-icon">

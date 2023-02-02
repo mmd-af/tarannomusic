@@ -6,8 +6,8 @@
                 توضیحات تماس با ما
             </p>
         </div>
-        <div class="d-flex justify-content-center">
-            <div class="shadow-lg m-3 p-2">
+        <div class="row text-center">
+            <div class="col-sm-12 col-lg-6 p-3 shadow-lg">
                 <div class="info p-3">
                     <div class="address">
                         <i class="bi bi-geo-alt"></i>
@@ -33,8 +33,8 @@
                 </div>
 
             </div>
-            <div class="shadow-lg m-3 p-2">
-                <form action="{{route('site.messages.store')}}" method="post" role="form" class="php-email-form p-3">
+            <div class="col-sm-12 col-lg-6 p-3 shadow-lg">
+                <form action="{{route('site.messages.store')}}" method="post" role="form" class="php-email-form">
                     @csrf
                     <div class="row">
                         <div class="form-group col-12">

@@ -15,7 +15,7 @@ class TeacherSeeder extends Seeder
         $teachers = Teacher::factory()->count(10)->create();
         foreach ($teachers as $teacher) {
             $image = new Image();
-            $image->url = $faker->imageUrl(rand(150, 220), rand(200, 260), 'people');
+            $image->url = $faker->imageUrl(rand(200, 260), rand(200, 260), 'people');
             $teacher->images()->save($image);
         }
     }
