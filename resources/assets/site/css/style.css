@@ -1222,7 +1222,7 @@ section {
 
 
 /*--------------------------------------------------------------
-# Cta
+# Posts
 --------------------------------------------------------------*/
 .posts {
     background: #387D7A;
@@ -1240,6 +1240,25 @@ section {
     color: #98CE00;
 }
 
+
+.posts .cta-btn {
+    font-family: "Yekan" !important;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 35px;
+    border-radius: 5px;
+    transition: 0.5s;
+    margin-top: 10px;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.posts .cta-btn:hover {
+    background: #fff;
+    color: #387D7A;
+}
 
 /*--------------------------------------------------------------
 # Contact
