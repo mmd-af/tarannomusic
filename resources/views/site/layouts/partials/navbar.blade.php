@@ -6,11 +6,11 @@
         <nav id="navbar" class="navbar">
             <ul>
                 <li><a class="nav-link scrollto active" href="#hero">خانه</a></li>
+                <li><a class="nav-link scrollto" href="#about">درباره ی ما</a></li>
                 <li><a class="nav-link scrollto" href="#testimonials">اساتید ما</a></li>
                 <li><a class="nav-link scrollto o" href="#instrument">سازهای ما</a></li>
                 <li><a class="nav-link scrollto" href="#team">نیروهای ما</a></li>
                 <li><a class="nav-link scrollto" href="#posts">مقالات</a></li>
-                <li><a class="nav-link scrollto" href="#about">درباره ی ما</a></li>
                 <li><a class="getstarted scrollto" href="#contact">تماس با ما</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>

@@ -1,7 +1,7 @@
-<section id="posts" class="cta">
+<section id="posts" class="posts">
     <div class="container" data-aos="fade-up">
         <div class="section-title">
-            <h2 style="color: #69acd9;">مقالات</h2>
+            <h2>مقالات</h2>
             <p>اینجا میتونه توضیحی در مورد مقالات قرار بگیره</p>
         </div>
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">

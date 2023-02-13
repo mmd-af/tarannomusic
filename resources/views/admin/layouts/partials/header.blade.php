@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>kimyagaracademy.com - @yield('title')</title>
+    <title>taranomusic.ir - @yield('title')</title>
     <meta name="csrf-token" content="{{ csrf_token() }}"/>
 
     <!-- Custom styles for this template-->
