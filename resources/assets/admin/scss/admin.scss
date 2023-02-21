@@ -120,7 +120,8 @@ body {
     display: inline-flex !important;
     line-height: 2;
 }
-.dataTables_filter input{
+
+.dataTables_filter input {
     margin-right: 1rem;
 }
 
@@ -128,16 +129,18 @@ body {
     display: inline-flex !important;
     line-height: 2;
 }
-.dataTables_length select{
+
+.dataTables_length select {
     margin-right: 1rem;
     margin-left: 1rem;
 }
 
-.btnPlus{
+.btnPlus {
     margin: 20px !important;
     padding: 20px !important;
 }
 
-.adminSliderColor{
-    background-color: #02075f;
+.adminTopbarColor {
+    //background: linear-gradient(90deg, rgba(152,206,0,.3), rgba(56,125,122,1) 70.71%);
+    background: linear-gradient(90deg, rgba(56, 125, 122, 1), rgba(152, 206, 0, 1), rgba(56, 125, 122, 1));
 }
