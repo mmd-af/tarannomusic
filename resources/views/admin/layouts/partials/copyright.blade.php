@@ -3,7 +3,7 @@
         <div class="copyright text-center my-auto">
             <div class="text-center">
                 <h6>
-                    Copyright &copy; <strong><span>taranomusic.ir</span></strong> {{date('Y')}}. All Rights Reserved
+                    Copyright &copy; <strong><span>tarannomusic.ir</span></strong> {{date('Y')}}. All Rights Reserved
                 </h6>
                 <h6>
                     طراحی و توسعه:

@@ -4,7 +4,7 @@
         {{--        <div class="sidebar-brand-icon rotate-n-15">--}}
         {{--            <i class="fas fa-laugh-wink"></i>--}}
         {{--        </div>--}}
-        <div class="sidebar-brand-text">taranomusic.ir</div>
+        <div class="sidebar-brand-text">tarannomusic.ir</div>
     </a>
     <!-- Divider -->
     <hr class="sidebar-divider my-0">
