@@ -61,6 +61,7 @@ return [
                 'application/pdf',
                 'text/plain',
                 'video/mp4',
+                'image/ico',
             ],
         ],
         'image' => [
@@ -75,6 +76,7 @@ return [
                 'image/pjpeg',
                 'image/png',
                 'image/gif',
+                'image/ico',
             ],
         ],
     ],
@@ -136,6 +138,7 @@ return [
         'image/jpeg',
         'image/pjpeg',
         'image/png',
+        'image/ico',
     ],
 
     'thumb_img_width'          => 200, // px
@@ -158,6 +161,7 @@ return [
         'gif'  => 'GIF Image',
         'jpg'  => 'JPEG Image',
         'jpeg' => 'JPEG Image',
+        'ico'  => 'Icons',
         'png'  => 'PNG Image',
         'ppt'  => 'Microsoft PowerPoint',
         'pptx' => 'Microsoft PowerPoint',

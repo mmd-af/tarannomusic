@@ -6,7 +6,7 @@
     <title>آموزشگاه موسیقی ترنم</title>
     <meta content="آموزشگاه موسیقی ترنم - taranomusic.ir" name="description">
     <!-- Favicons -->
-    <link href="{{asset('assets/site/img/favicon.png')}}" rel="icon">
+    <link href="{{asset('photos/shares/favicons/favicon.ico')}}" rel="icon">
     <link href="{{asset('assets/site/img/apple-touch-icon.png')}}" rel="apple-touch-icon">
     <!-- Vendor CSS Files -->
     <link href="{{asset('assets/site/vendor/aos/aos.css')}}" rel="stylesheet">
