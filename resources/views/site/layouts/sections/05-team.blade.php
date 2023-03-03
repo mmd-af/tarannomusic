@@ -1,15 +1,9 @@
 <section id="team" class="team section-bg">
     <div class="container" data-aos="fade-up">
-
         <div class="section-title">
-            <h2>تیم ما</h2>
-            <p>
-                این قسمت پیشنهادی هست، میتونه نیروهایی که توی آموزشگاه کار میکنن و بذاریم
-            </p>
+            <h2>نیروهای ما</h2>
         </div>
-
         <div class="row">
-
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                 <div class="member">
                     <div class="member-img">
@@ -27,7 +21,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                 <div class="member">
                     <div class="member-img">
@@ -45,7 +38,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                 <div class="member">
                     <div class="member-img">
@@ -63,7 +55,6 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
                 <div class="member">
                     <div class="member-img">
@@ -81,8 +72,6 @@
                     </div>
                 </div>
             </div>
-
         </div>
-
     </div>
 </section>

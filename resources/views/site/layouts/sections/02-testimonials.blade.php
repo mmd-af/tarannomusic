@@ -1,11 +1,8 @@
 <section id="testimonials" class="testimonials">
     <div class="container" data-aos="fade-up">
-
         <div class="section-title">
             <h2>اساتید ما</h2>
-            <p>اینجا میتونه توضیحی در مورد اساتید ما قرار بگیره</p>
         </div>
-
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
             <div class="swiper-wrapper">
                 @foreach($teachers as $teacher)
@@ -24,6 +21,5 @@
             </div>
             <div class="swiper-pagination"></div>
         </div>
-
     </div>
 </section>

@@ -9,7 +9,7 @@
     <!-- End About Section -->
 
         <!-- ======= Counts Section ======= -->
-    @include('site.layouts.sections.01-counts')
+{{--    @include('site.layouts.sections.01-counts')--}}
 
     <!-- End Counts Section -->
 

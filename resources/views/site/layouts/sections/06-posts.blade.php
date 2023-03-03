@@ -2,7 +2,6 @@
     <div class="container" data-aos="fade-up">
         <div class="section-title">
             <h2>مقالات</h2>
-            <p>اینجا میتونه توضیحی در مورد مقالات قرار بگیره</p>
         </div>
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
             <div class="swiper-wrapper py-3">
@@ -12,13 +11,13 @@
                             <div class="col-6">
                                 <img src="{{asset($post->images->url)}}"
                                      class="img-thumbnail" alt="{{$post->title}}">
+                                <a class="cta-btn" href="{{route('site.posts.show',$post->slug)}}">ادامه ی مطلب</a>
                             </div>
                             <div class="col-6">
                                 <h3 class="text-white">{{$post->title}}</h3>
-                                <p class="mt-3" style="color: #69acd9;">
+                                <p class="mt-3">
                                     {{Str::limit(strip_tags($post->description),150)}}
                                 </p>
-                                <a class="cta-btn" href="{{route('site.posts.show',$post->slug)}}">ادامه ی مطلب</a>
                             </div>
                         </div>
                     </div>

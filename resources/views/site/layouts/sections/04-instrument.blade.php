@@ -1,15 +1,9 @@
 <section id="instrument" class="portfolio">
     <div class="container" data-aos="fade-up">
-
         <div class="section-title">
-            <h2>ساز هایی که توی آموزشگاه ما تدریس میشه</h2>
-            <p>
-                توضیحاتی در مورد ساز های موسیقی و...
-            </p>
+            <h2>ساز هایی که در آموزشگاه ما تدریس میشه</h2>
         </div>
-
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="300">
-
             @foreach($instruments as $instrument)
                 <div class="col-lg-3 col-md-6 portfolio-item filter-web">
                     <div class="portfolio-wrap">
@@ -28,8 +22,6 @@
                     </div>
                 </div>
             @endforeach
-
         </div>
-
     </div>
 </section>

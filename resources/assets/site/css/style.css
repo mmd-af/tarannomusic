@@ -447,6 +447,10 @@ h6 {
     font-size: 22px;
 }
 
+#hero h3 {
+    color: #98CE00;
+}
+
 #hero .btn-get-started {
     font-family: "Poppins", sans-serif;
     font-weight: 500;
@@ -637,33 +641,33 @@ section {
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
-.counts {
-    background: #387D7A;
-    padding: 60px 0;
-}
+/*.counts {*/
+/*    background: #387D7A;*/
+/*    padding: 60px 0;*/
+/*}*/
 
-.counts .count-box {
-    width: 100%;
-    text-align: center;
-}
+/*.counts .count-box {*/
+/*    width: 100%;*/
+/*    text-align: center;*/
+/*}*/
 
-.counts .count-box span {
-    font-size: 48px;
-    line-height: 48px;
-    display: block;
-    font-weight: 700;
-    color: #98CE00;
-    margin-left: 80px;
-    margin: auto;
-}
+/*.counts .count-box span {*/
+/*    font-size: 48px;*/
+/*    line-height: 48px;*/
+/*    display: block;*/
+/*    font-weight: 700;*/
+/*    color: #98CE00;*/
+/*    margin-left: 80px;*/
+/*    margin: auto;*/
+/*}*/
 
-.counts .count-box p {
-    padding: 8px 0 0 0;
-    font-family: "Yekan" !important;
-    font-weight: 600;
-    font-size: 14px;
-    color: #ffffff;
-}
+/*.counts .count-box p {*/
+/*    padding: 8px 0 0 0;*/
+/*    font-family: "Yekan" !important;*/
+/*    font-weight: 600;*/
+/*    font-size: 14px;*/
+/*    color: #ffffff;*/
+/*}*/
 
 /*--------------------------------------------------------------
 # About Video
@@ -892,14 +896,16 @@ section {
     padding: 60px 0;
 }
 
-.cta h3 {
+.cta h2 {
+    color: #98CE00;
+    /*font-size: 28px;*/
+    /*font-weight: 700;*/
+}
+
+.cta h4 {
     color: #fff;
     font-size: 28px;
     font-weight: 700;
-}
-
-.cta p {
-    color: #fff;
 }
 
 .cta .cta-btn {
@@ -1220,7 +1226,6 @@ section {
 }
 
 
-
 /*--------------------------------------------------------------
 # Posts
 --------------------------------------------------------------*/
@@ -1228,6 +1233,10 @@ section {
     background: #387D7A;
     background-size: cover;
     padding: 60px 0;
+}
+
+.posts h2 {
+    color: #98CE00;
 }
 
 .posts h3 {
@@ -1239,7 +1248,6 @@ section {
 .posts p {
     color: #98CE00;
 }
-
 
 .posts .cta-btn {
     font-family: "Yekan" !important;
@@ -1267,6 +1275,10 @@ section {
     width: 100%;
 }
 
+.contact p {
+    color: #387D7A;
+}
+
 .contact .info i {
     font-size: 20px;
     color: #387D7A;
@@ -1286,14 +1298,13 @@ section {
     font-size: 22px;
     font-weight: 600;
     margin-bottom: 5px;
-    color: #1D3461;
+    color: #387D7A;
 }
 
 .contact .info p {
     padding: 0 0 0 60px;
     margin-bottom: 0;
-    font-size: 14px;
-    color: #217bbc;
+    color: #000000;
 }
 
 .contact .info .email,
@@ -1468,29 +1479,10 @@ section {
     }
 }
 
-#footer .credits {
-    padding-top: 5px;
-    font-size: 13px;
-    color: #444444;
-}
-
 #footer .social-links a {
-    font-size: 18px;
-    display: inline-block;
-    background: #387D7A;
-    color: #fff;
-    line-height: 1;
-    padding: 8px 0;
-    margin-right: 4px;
-    border-radius: 5px;
-    text-align: center;
-    width: 36px;
-    height: 36px;
-    transition: 0.3s;
+    color: #387D7A;
 }
 
 #footer .social-links a:hover {
-    background: #98CE00;
-    color: #387D7A;
-    text-decoration: none;
+    color: #00a19b;
 }
